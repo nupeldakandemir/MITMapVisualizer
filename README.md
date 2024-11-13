@@ -6,7 +6,7 @@
 - The mit matrix image is displayed using the cMap colormap, demonstrating how different axis properties affect the image display.
 - This project is ideal for understanding MATLAB's subplot and axis functionalities in scientific visualization.
 
-**Ana Özellikler:**
+**Key Features:**
 1) Displays a map image with a 2x2 grid of axes
 2) Configures different axis modes: square, tight, equal, and xy
 3) Loads data and colormap from the mitMap.mat file
